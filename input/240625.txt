@@ -1,0 +1,53 @@
+                                                                    Ironbeam, Inc.                                                                         
+             Tuesday, June 25, 2024                                             141 W Jackson Blvd
+                                                                                Suite 2750
+                                                                                Chicago, IL 60604
+
+
+
+
+
+                                              <<<<<<<<<< SEGREGATED STATUS TOTALS >>>>>>>>>>
+                                                                                                                                                                   
+                                                                                                                                                                   
+                                                                                                                                                           ACCOUNT: XXXXXXXX
+
+
+                                                                                                                                     TODAY                  CONVERTED TO BASE
+                                                                                                                 -------------------------          -------------------------
+      USD PREVIOUS LEDGER BALANCE                                                                                                 2,756.76        1.00000000000 USD CONVERSION
+      USD CASH                                                                                                                        0.00                               0.00
+      USD FUTURE P&L                                                                                                                  0.00                               0.00
+      USD FUTURE COMMISSION                                                                                                           0.00                               0.00
+      USD FUTURE CLEARING FEE                                                                                                         0.00                               0.00
+      USD FUTURE EXCHANGE FEE                                                                                                         0.00                               0.00
+      USD FUTURE NFA FEE                                                                                                              0.00                               0.00
+      USD LEDGER BALANCE                                                                                                          2,756.76                           2,756.76*
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+      USD CASH BALANCE                                                                                                            2,756.76                           2,756.76*
+      USD NET LIQUIDATING                                                                                                         2,756.76                           2,756.76*
+                                                                                                                 -------------------------------------------------------------
+      USD EXCESS/DEFICIT                                                                                                          2,756.76                           2,756.76*
+
+
+                                                                      <<<<<<<<<< STATUS TOTALS >>>>>>>>>>
+
+
+                                                                                                                                     TODAY                  CONVERTED TO BASE
+                                                                                                                 -------------------------          -------------------------
+      USD PREVIOUS LEDGER BALANCE                                                                                                 2,756.76        1.00000000000 USD CONVERSION
+      USD CASH                                                                                                                        0.00                               0.00
+      USD FUTURE P&L                                                                                                                  0.00                               0.00
+      USD FUTURE COMMISSION                                                                                                           0.00                               0.00
+      USD FUTURE CLEARING FEE                                                                                                         0.00                               0.00
+      USD FUTURE EXCHANGE FEE                                                                                                         0.00                               0.00
+      USD FUTURE NFA FEE                                                                                                              0.00                               0.00
+      USD LEDGER BALANCE                                                                                                          2,756.76                           2,756.76*
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+      USD CASH BALANCE                                                                                                            2,756.76                           2,756.76*
+      USD NET LIQUIDATING                                                                                                         2,756.76                           2,756.76*
+                                                                                                                 -------------------------------------------------------------
+      USD EXCESS/DEFICIT                                                                                                          2,756.76                           2,756.76*
+                    
+                    
+                    

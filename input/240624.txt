@@ -1,0 +1,82 @@
+ Monday, June 24, 2024                                              141 W Jackson Blvd
+                                                                                Suite 2750
+                                                                                Chicago, IL 60604
+
+
+
+
+
+                                                    <<<<<<<<<< CONFIRMATION >>>>>>>>>>
+                                                                                                                                                                   
+                                                                                                                                                                   
+                                                                                                                                                           ACCOUNT: XXXXXXXX
+
+                    BOX/                                                                   P                                                                      TRADE
+     BUY      SELL  CURR EXCH   TRANSACTION/PRODUCT DESCRIPTION                    EX DATE C        STRIKE PRICE         TRADE PRICE                    AMOUNT     DATE
+--------  --------  ---- ------ -------------------------------------------------- ------- - ------------------- ------------------- ------------------------- --------
+
+*********************************************************** THE FOLLOWING TRADES HAVE BEEN POSTED TO YOUR ACCOUNT ************************************************************
+
+                 1       CME    MICRO E-MINI NASDAQ 100 FUTURES                      SEP24                           19839.00
+       1                 CME    MICRO E-MINI NASDAQ 100 FUTURES                      SEP24                           19940.00
+       1*        1*                                                                          MATURITY: 20SEP24                                                *
+
+                                                                                     USD FUTURE COMMISSION                                               -0.98
+                                                                                     USD FUTURE CLEARING FEE                                             -0.36
+                                                                                     USD FUTURE EXCHANGE FEE                                             -0.70
+                                                                                     USD FUTURE NFA FEE                                                  -0.04
+                                                                                                                                            =======================
+                                                                                     USD PRODUCT COMMISSION AND FEE TOTALS                               -2.08
+
+
+
+                                                                    <<<<<<<<<< PURCHASE AND SALE >>>>>>>>>>
+
+                    BOX                                                                    P                                                                      TRADE
+     BUY      SELL  CODE EXCH   TRANSACTION/PRODUCT DESCRIPTION                    EX DATE C        STRIKE PRICE         TRADE PRICE                    AMOUNT     DATE
+--------  --------  ---- ------ -------------------------------------------------- ------- - ------------------- ------------------- ------------------------- --------
+       1                 CME    MICRO E-MINI NASDAQ 100 FUTURES                      SEP24                           19940.00                       -39,880.00 24JUN24
+                 1       CME    MICRO E-MINI NASDAQ 100 FUTURES                      SEP24                           19839.00                        39,678.00 24JUN24
+       1*        1*                                                                                                          PAY USD                   -202.00*
+
+
+
+                                                                 <<<<<<<<<< SEGREGATED STATUS TOTALS >>>>>>>>>>
+
+
+                                                                                                                                     TODAY                  CONVERTED TO BASE
+                                                                                                                 -------------------------          -------------------------
+      USD PREVIOUS LEDGER BALANCE                                                                                                 2,960.84        1.00000000000 USD CONVERSION
+      USD CASH                                                                                                                        0.00                               0.00
+      USD FUTURE P&L                                                                                                               -202.00                            -202.00
+      USD FUTURE COMMISSION                                                                                                          -0.98                              -0.98
+      USD FUTURE CLEARING FEE                                                                                                        -0.36                              -0.36
+      USD FUTURE EXCHANGE FEE                                                                                                        -0.70                              -0.70
+      USD FUTURE NFA FEE                                                                                                             -0.04                              -0.04
+      USD LEDGER BALANCE                                                                                                          2,756.76                           2,756.76*
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+      USD CASH BALANCE                                                                                                            2,756.76                           2,756.76*
+      USD NET LIQUIDATING                                                                                                         2,756.76                           2,756.76*
+                                                                                                                 -------------------------------------------------------------
+      USD EXCESS/DEFICIT                                                                                                          2,756.76                           2,756.76*
+
+
+                                                                      <<<<<<<<<< STATUS TOTALS >>>>>>>>>>
+
+
+                                                                                                                                     TODAY                  CONVERTED TO BASE
+                                                                                                                 -------------------------          -------------------------
+      USD PREVIOUS LEDGER BALANCE                                                                                                 2,960.84        1.00000000000 USD CONVERSION
+      USD CASH                                                                                                                        0.00                               0.00
+      USD FUTURE P&L                                                                                                               -202.00                            -202.00
+      USD FUTURE COMMISSION                                                                                                          -0.98                              -0.98
+      USD FUTURE CLEARING FEE                                                                                                        -0.36                              -0.36
+      USD FUTURE EXCHANGE FEE                                                                                                        -0.70                              -0.70
+      USD FUTURE NFA FEE                                                                                                             -0.04                              -0.04
+      USD LEDGER BALANCE                                                                                                          2,756.76                           2,756.76*
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+      USD CASH BALANCE                                                                                                            2,756.76                           2,756.76*
+      USD NET LIQUIDATING                                                                                                         2,756.76                           2,756.76*
+                                                                                                                 -------------------------------------------------------------
+      USD EXCESS/DEFICIT                                                                                                          2,756.76                           2,756.76*
+                    

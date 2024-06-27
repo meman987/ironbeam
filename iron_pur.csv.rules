@@ -1,0 +1,19 @@
+#
+# TextDate,Summary,MarketName,Period,ProfitAndLoss,Transaction type,Reference,Open level,Close level,Size,Currency,PL Amount,Cash transaction,DateUtc,OpenDateUtc,CurrencyIsoCode
+#
+
+# skip the headings line:
+skip 1
+separator ,
+
+#          BUY,SELL,BOX CODE,EXCH,TRANSACTION/PRODUCT DESCRIPTION,EX DATE,C,STRIKE PRICE,TRADE PRICE,  AMOUNT,DATE,Date,Shares,type
+fields        ,    ,        ,    ,                         ticker,       , , trans_desc2,      price,trans_amt,   ,date,shares,type
+
+date-format %Y-%m-%d
+
+description %type %ticker %shares
+currency1 USD
+account1 Assets:Ironbeam
+amount1 %trans_amt
+account2 Result:%ticker
+
