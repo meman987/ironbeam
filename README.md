@@ -5,7 +5,7 @@
 
 # Usage
 
-Save daily accoung statement from https://trading.certigo.com/ (Acount > Overview > History) 
+Save daily account statements from https://trading.certigo.com/ (Acount > Overview > History) 
 in the `input` folder with the extension `.txt`.
 
 Run `just iron` to show results or run the commands in `justfile` manually if you cannot use 
