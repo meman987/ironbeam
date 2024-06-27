@@ -1,6 +1,8 @@
 # Pre-requisites
 
 `python`, `hledger` and `just` are used. Only `python` is needed to create csv-files.
+The `justfile` is developed for linux/macOS. It should work with cygwin or similar under
+Windows.
 
 
 # Usage
