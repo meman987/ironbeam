@@ -15,3 +15,8 @@ in the `input` folder with the extension `.txt`. Select all text, copy and paste
 Run `just iron` to show results or run the commands in `justfile` manually if you cannot use 
 `just`.
 
+## Run manually (without `just`)
+
+1. Create `.out`-file for each type of record: `python3 iron1.py ironbeam` (Assuming the text files are in the folder `ironbeam`)
+2. Create `PURCHASE_AND_SALE.csv`: `python3 iron2.py ironbeam/PURCHASE_AND_SALE.out pur`
+3. Create `CONFIRMATION.csv`: `python3 iron2.py ironbeam/CONFIRMATION.out conf`
