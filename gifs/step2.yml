@@ -161,7 +161,7 @@ records:
     content: u
   - delay: 115
     content: t
-  - delay: 380
+  - delay: 4000
     content: "\r\n\e[?2004l\r240614.txt  240618.txt  240620.txt  240624.txt  CONFIRMATION.out          OPEN_POSITION_SUMMARY.out  PURCHASE_AND_SALE.out\r\n240617.txt  240619.txt  240621.txt  240625.txt  OPEN_POSITION_DETAIL.out  PURCHASE_AND_SALE.csv      SEGREGATED_STATUS_TOTALS.out\r\n\e[?2004h\e[01;32mme@a90f411d\e[00m:\e[01;34m/media/me/364b201e-3416-4537-bb16-98314b1ef284/git/ironbeam_github\e[00m$ "
   - delay: 4000
     content: "\e[?2004l\r\r\nlogout\r\n"
