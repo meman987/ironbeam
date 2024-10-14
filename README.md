@@ -22,4 +22,9 @@ Run `just iron` to show results or run the commands in `justfile` manually if yo
 <img src='./gifs/step1.gif' >
 
 2. Create `PURCHASE_AND_SALE.csv`: `python3 iron2.py input/PURCHASE_AND_SALE.out pur`
+
+<img src='./gifs/step2.gif' >
+
 3. Create `CONFIRMATION.csv`: `python3 iron2.py input/CONFIRMATION.out conf`
+
+<img src='./gifs/step3.gif' >
